@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JedasX
+- 👋 Hi, I’m @JedasX, Russian software begginer developer
 - 👀 I’m interested in Java Programming
 - 👨‍💻 I’m currently developing an implementation of 2DLists
 
