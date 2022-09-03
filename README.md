@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JedasX, Russian🇷🇺 beginner software developer
+- 👋 Hi, I’m @JedasX, beginner software developer
 - 👀 I’m interested in Java Programming
 - 👨‍💻 I’m currently developing an implementation of 2DLists
 
